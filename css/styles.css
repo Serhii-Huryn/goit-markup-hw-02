@@ -39,8 +39,7 @@ ul {
 }
 
 .nav_link {
-
-    font-size: 16px;
+    font-weight: 500 font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -56,6 +55,11 @@ ul {
 
 .adres {
     font-style: normal;
+}
+
+.adres_list {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .adres-list_item {
