@@ -59,13 +59,12 @@ ul {
 }
 
 
-.adres-list_item {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
+.adres-list_link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+
 }
 
 .adres_list_link {
