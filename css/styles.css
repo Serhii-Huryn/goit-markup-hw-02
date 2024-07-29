@@ -54,11 +54,11 @@ ul {
     color: #404bbf;
 }
 
-.address {
+.adres {
     font-style: normal;
 }
 
-.adress-list {
+.adres-list_item {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -67,16 +67,16 @@ ul {
     color: #434455;
 }
 
-.adress_list_item {
+.adres_list_item {
     color: #434455
 }
 
 
-.adress_list_item:hover {
+.adres_list_item:hover {
     color: #404bbf;
 }
 
-.adress_list_item:focus {
+.adres_list_item:focus {
     color: #404bbf;
 }
 
@@ -90,7 +90,7 @@ ul {
     background: #2e2f42;
 }
 
-.mian_text_titel {
+.main_text_titel {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -190,8 +190,7 @@ ul {
 }
 
 /* Our portfolio */
-
-.our-portfolio {
+.our-portfolio_titel {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -219,7 +218,7 @@ ul {
     color: #434455;
 }
 
-.our_portfolio_portfolio_image {
+.our_portfolio_image {
     background: #fff;
 }
 
